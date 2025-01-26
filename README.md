@@ -22,3 +22,8 @@ Output Screenshot:
 
 Output Demo:
 ![alt text](https://github.com/rhr007/HTML-CSS-JS-PracticeProjects/blob/main/00_Output_SS/P04_1.gif?raw=true)
+
+# **_Project 5: Menu Bar_**
+
+Output Demo:
+![alt text](https://github.com/rhr007/HTML-CSS-JS-PracticeProjects/blob/main/00_Output_SS/P05_1.gif?raw=true)
